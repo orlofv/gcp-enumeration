@@ -6,4 +6,8 @@
 These script accept as input a single folder ID or a file containing one folder ID per line.  
 The result outputs the folders nested under the parent folder and the projects that are not under any folder.  
 
+**3. project_assets_enum.py  **  
+
+Project enumeration script. Run it localy (required gcloud) or in cloud compute instance, requires authentication & authorization. The output and results are based on the user’s permissions.
+
 
