@@ -1,6 +1,6 @@
 # Scripts and notes used for GCP enumeration
 
-[GCP pentesting guide (blog post)].(https://slashparity.com/?p=938)
+[GCP pentesting guide (blog post)](https://slashparity.com/?p=938)
 
 **1. list_folders.py**  
 **2. list_projects.py**  
