@@ -2,6 +2,9 @@
 
 [GCP pentesting guide (blog post)](https://slashparity.com/?p=938)
 
+---
+## Scripts 
+
 **1. list_folders.py**  
 **2. list_projects.py**  
 
