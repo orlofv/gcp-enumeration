@@ -14,6 +14,6 @@ The result outputs the folders nested under the parent folder and the projects t
 **3. project_assets_enum.py**  
 
 Enumerates various assets within a GCP project, useful for understanding the environment you are in. Run it localy (requires gcloud) or in cloud compute instance, requires authentication & authorization. The output and results are based on the user’s permissions.
-For more details, check out the [pentesting guide](https://slashparity.com/?p=938)
+For more details, check out the [pentesting guide](https://slashparity.com/?p=938#Enumeration_Script)
 
 
