@@ -5,8 +5,13 @@
 ---
 ## Scripts 
 
-**1. list_folders.py**  
-**2. list_projects.py**  
+**1. sa_enum.py**  
+
+Run this script on a GCP compute instance to enumerate any SAs that exist on the Instance.
+The results will vary depending on the account's permissions.  
+
+**2. list_folders.py**  
+**3. list_projects.py**  
 
 These script accept as input a single folder ID or a file containing one folder ID per line.  
 The result outputs the folders nested under the parent folder and the projects that are not under any folder.  
