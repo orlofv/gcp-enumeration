@@ -13,7 +13,7 @@ The results will vary depending on the account's permissions.
 **2. list_folders.py**  
 **3. list_projects.py**  
 
-These script accept as input a single folder ID or a file containing one folder ID per line.  
+The scripts accept as input a single folder ID or a file containing one folder ID per line.  
 The result outputs the folders nested under the parent folder and the projects that are not under any folder.  
 
 **3. project_assets_enum.py**  
