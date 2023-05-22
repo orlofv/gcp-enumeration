@@ -7,7 +7,7 @@
 
 **1. sa_enum.py**  
 
-Run this script on a GCP compute instance to enumerate any SAs that exist on the Instance.
+Run this script on a GCP compute instance to enumerate any SAs that exist on the Instance.  
 The results will vary depending on the account's permissions.  
 
 **2. list_folders.py**  
