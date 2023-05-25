@@ -28,5 +28,6 @@ For more details, check out the [pentesting guide](https://slashparity.com/?p=93
 **1. [GCP Token Reuse](https://github.com/RedTeamOperations/GCPTokenReuse)**  
 
 The script checks if an access token is active or expired. If the token is valid it creates a gcloud configuration based on that token. 
-Syntax : 
+Syntax :  
+ 
  `python3 Gcp-Token-Updater.py -I --access-token <access_token> --account-name <the gcloud config/account name you want to assign>`
