@@ -19,6 +19,12 @@ The result outputs the folders nested under the parent folder and the projects t
 **3. project_assets_enum.py**  
 
 Enumerates various assets within a GCP project, useful for understanding the environment you are in. Run it localy (requires gcloud) or in cloud compute instance, requires authentication & authorization. The output and results are based on the user’s permissions.
-For more details, check out the [pentesting guide](https://slashparity.com/?p=938#Enumeration_Script)
+For more details, check out the [pentesting guide](https://slashparity.com/?p=938#Enumeration_Script)  
 
+---  
 
+## 3rd Party Scripts  
+
+**1. [GCP Token Reuse](https://github.com/RedTeamOperations/GCPTokenReuse)  
+
+The script checks if an access token is active or expired. If the token is valid it creates a gcloud configuration based on that token.  `python3 Gcp-Token-Updater.py -I --access-token <access_token> --account-name <the gcloud config/account name you want to assign>`
