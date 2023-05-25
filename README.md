@@ -30,5 +30,6 @@ For more details, check out the [pentesting guide](https://slashparity.com/?p=93
 The script checks if an access token is active or expired. If the token is valid it creates a gcloud configuration based on that token. 
 Syntax :  
  
- `python3 Gcp-Token-Updater.py -I --access-token <access_token> --account-name <the gcloud config/account name you want to assign>`
+ `python3 Gcp-Token-Updater.py -I --access-token <access_token> --account-name <the gcloud config/account name you want to assign>`  
+
 <img width="811" alt="2023-05-25_10-37" src="https://github.com/slashparity/gcp-enumeration/assets/80419690/f53576bb-1f33-40eb-911a-a9a8f3059ec4">
