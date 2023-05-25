@@ -23,7 +23,7 @@ For more details, check out the [pentesting guide](https://slashparity.com/?p=93
 
 ---  
 
-## 3rd Party Scripts  
+## 3rd Party Tools  
 
 **1. [GCP Token Reuse](https://github.com/RedTeamOperations/GCPTokenReuse)**  
 
