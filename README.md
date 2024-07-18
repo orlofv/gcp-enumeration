@@ -1,6 +1,6 @@
 # Scripts and notes used for GCP enumeration
 
-[GCP pentesting guide (blog post)](https://cybins.substack.com/p/gcp-pentesting)
+[GCP pentesting guide (blog post)](https://intelinsights.substack.com/p/gcp-pentesting)
 
 ---
 ## Scripts 
